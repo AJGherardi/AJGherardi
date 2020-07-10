@@ -1,4 +1,4 @@
-### Hi there 👋
+### Alexander Gherardi is a student who is intrested in software devolopment. 
 
 <!--
 **AJGherardi/AJGherardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
